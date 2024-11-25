@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MANAVSADIWALA
+- 👋 Hi, I’m @Manav Sadiwala
 - 👀 I’m interested in Data Science, Database, Web Development
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science, Data Architecture  
